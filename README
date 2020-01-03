@@ -1,0 +1,5 @@
+Radeon HD driver bug demonstration program for this discussion: https://community.amd.com/thread/200786
+Precompiled binary (Win64): https://drive.google.com/file/d/1qRj8nAMiJN18DLuPodO2hhoM_k0vFgst/view?usp=sharing
+
+Expected on all Nvidia, Intel and modern AMD hardware: blue square in black window.
+Observed on Radeon HD series: black window only.
